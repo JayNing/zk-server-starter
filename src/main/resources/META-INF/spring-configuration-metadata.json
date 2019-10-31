@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.ning.zookeeper.starter.autoconfiguration.ZkProperties",
+      "name": "zk",
+      "type": "com.ning.zookeeper.starter.autoconfiguration.ZkProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.ning.zookeeper.starter.autoconfiguration.ZkProperties",
+      "name": "zk.server.sessionTimeOut",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.ning.zookeeper.starter.autoconfiguration.ZkProperties",
+      "name": "zk.server.address",
+      "type": "java.lang.String"
+    }
+  ]
+}
